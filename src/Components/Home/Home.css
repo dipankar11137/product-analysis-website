@@ -1,10 +1,56 @@
-.nav-style a {
-    text-decoration: none;
-    margin-right: 20px;
-    font-weight: bold;
-    font-size: 30px;
+.watch-details-style {
+    padding-top: 90px;
+    text-align: start;
 }
 
-.nav-style a:hover {
-    color: orange;
+.watch-details-style h1 {
+    font-size: 70px;
+    font-weight: bold;
+
+}
+
+.watch-details-style h2 {
+    font-size: 70px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(17, 17, 121);
+}
+
+.watch-details-style h1:hover {
+    text-decoration: underline;
+}
+
+.watch-details-style h2:hover {
+    color: rgb(166, 45, 1);
+
+}
+
+.watch-details-style p {
+    color: rgba(34, 33, 33, 0.496);
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn-style {
+    background-color: rgb(206, 200, 212);
+    font-size: 25px;
+    font-weight: bold;
+    padding: 8px 15px;
+    border-radius: 10px;
+    border: 0;
+}
+
+.btn-style:hover {
+    background-color: orangered;
+    color: white;
+}
+
+.watch-style {
+    padding: 20px;
+    border-radius: 140px;
+}
+
+.watch-style img:hover {
+    width: 500px;
 }

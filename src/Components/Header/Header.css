@@ -1,0 +1,14 @@
+.nav-style a {
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(227, 242, 238);
+}
+
+.nav-style a:hover {
+
+    color: orangered;
+    text-decoration: underline;
+
+}

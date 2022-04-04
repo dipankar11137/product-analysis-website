@@ -1,0 +1,13 @@
+.bar-style {
+    font-size: 30px;
+    background-color: rgb(246, 236, 248);
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+.bar-style:hover {
+    background-color: rgb(248, 247, 225);
+    color: rgb(211, 34, 152);
+
+}

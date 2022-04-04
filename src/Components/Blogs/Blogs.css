@@ -4,7 +4,7 @@
 }
 
 .blog-answer:hover {
-    border: 4px solid orangered;
-    background-color: darkblue;
+    /* border: 4px solid orangered; */
+    background-color: rgb(97, 2, 103);
     color: white;
 }

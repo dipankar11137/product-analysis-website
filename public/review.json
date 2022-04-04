@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Apple Watch Series 6 A2292 (M00D3LL/A) 44mm Sport Band (Silver Aluminum, White)",
+        "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/series-6/series-6-01-500x500.jpg",
+        "rating": 4,
+        "price": 43000
+    },
+    {
+        "id": 2,
+        "name": "Apple Watch Series 7 45mm Sports Band",
+        "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/series-7/midnight/apple-watch-series-7-45mm-black-01-500x500.jpg",
+        "rating": 4.5,
+        "price": 49500
+    },
+    {
+        "id": 3,
+        "name": "Apple Watch Series 7 45mm Blue Sports Band",
+        "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/series-7/abyss-blue/apple-watch-series-7-45mm-blue-01-500x500.jpg",
+        "rating": 4,
+        "price": 54500
+    },
+    {
+        "id": 4,
+        "name": "Apple Watch Series 7 45mm Green Sports Band",
+        "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/series-7/green/series-7-01-500x500.jpg",
+        "rating": 4.7,
+        "price": 5500
+    },
+    {
+        "id": 5,
+        "name": "Apple Watch SE A2351 (MYDM2LL/A) GPS 40mm Sport Band (Silver Aluminum,White)",
+        "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/apple-watch-se/apple-watch-se-110-500x500.jpg",
+        "rating": 4.8,
+        "price": 60000
+    },
+    {
+        "id": 6,
+        "name": "Apple Watch SE A2352 (MYDR2LL/A) GPS 44mm Sport Band (Gold Aluminum, Pink Sand)",
+        "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/apple-watch-se/apple-watch-se-01-500x500.jpg",
+        "rating": 4.6,
+        "price": 58000
+    },
+    {
+        "id": 7,
+        "name": "Apple Watch Series 4 (MU6D2LL/A) GPS, 44mm, Space Gray Aluminum, Black Sport Band",
+        "rating": 4,
+        "img": "https://www.startech.com.bd/image/cache/catalog/watch/apple/mu6d2ll-a/mu6d2ll-a-1-500x500.jpg",
+        "price": 38000
+    }
+]

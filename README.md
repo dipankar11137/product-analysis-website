@@ -3,7 +3,7 @@
 ## live side link :
 
 
-Markup : <details>
+ <details>
            <summary>Point 1</summary>
            <p>First of all I connect my header file in app.js and install react router.and link our react router.</p>
          </details>

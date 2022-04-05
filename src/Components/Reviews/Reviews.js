@@ -7,7 +7,7 @@ const Reviews = () => {
     const [products, setProducts] = useProducts();
     return (
         <div>
-            <h1 className='fw-bold mt-4'>Products </h1>
+            <h1 className='fw-bold mt-4 '>All products Reviews </h1>
 
             <div className="products-container">
                 {

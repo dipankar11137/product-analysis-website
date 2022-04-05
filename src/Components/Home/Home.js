@@ -28,7 +28,7 @@ const Home = () => {
             <br />
             < hr />
             <div className='mt-5'>
-                <h1 className='fw-bold'>Products </h1>
+                <h1 className='fw-bold'>Customer Reviews </h1>
                 <div className='products-container'>
                     {
                         (products.slice(0, 3)).map(product => <Cart key={product.id} product={product}></Cart>)
@@ -36,7 +36,7 @@ const Home = () => {
                 </div>
 
                 <nav className=' btn-style btn mt-3 mb-5'>
-                    <Link to="/reviews">Show All Products</Link>
+                    <Link to="/reviews">Show All Reviews</Link>
                 </nav>
 
             </div>

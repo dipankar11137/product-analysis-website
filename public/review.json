@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "personName": "Dipu Dot",
         "commend": "The watch industry is a multi-billion dollar business. It’s no surprise then that there are many famous quotes about watches.",
         "name": "Apple Watch Series 6 A2292 (M00D3LL/A) 44mm Sport Band (Silver Aluminum, White)",
         "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/series-6/series-6-01-500x500.jpg",
@@ -9,6 +10,7 @@
     },
     {
         "id": 2,
+        "personName": "Kamal Hossion",
         "commend": "This blog post will explore some of the best quotes about watches. With 60 of the best watch quotes ready to inspire.",
         "name": "Apple Watch Series 7 45mm Sports Band",
         "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/series-7/midnight/apple-watch-series-7-45mm-black-01-500x500.jpg",
@@ -17,6 +19,7 @@
     },
     {
         "id": 3,
+        "personName": "Jamal Fokir",
         "commend": "From funny watch quotes, to kinda sad watch quotes, while some of these quotes will make you even a little bit mad",
         "name": "Apple Watch Series 7 45mm Blue Sports Band",
         "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/series-7/abyss-blue/apple-watch-series-7-45mm-blue-01-500x500.jpg",
@@ -25,6 +28,7 @@
     },
     {
         "id": 4,
+        "personName": "Davit Dot Dot",
         "commend": "I have some wonderful suits in my closet, a lovely car, some refined watches.",
         "name": "Apple Watch Series 7 45mm Green Sports Band",
         "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/series-7/green/series-7-01-500x500.jpg",
@@ -33,6 +37,7 @@
     },
     {
         "id": 5,
+        "personName": "Don Banaga Jon",
         "commend": "I am fascinated by Omega’s history. Particularly the First World War stuff, when they made watches for the flying corps",
         "name": "Apple Watch SE A2351 (MYDM2LL/A) GPS 40mm Sport Band (Silver Aluminum,White)",
         "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/apple-watch-se/apple-watch-se-110-500x500.jpg",
@@ -41,6 +46,7 @@
     },
     {
         "id": 6,
+        "personName": " CR 7",
         "commend": "Everyone looks at your watch and it represents who you are, your values and your personal style.",
         "name": "Apple Watch SE A2352 (MYDR2LL/A) GPS 44mm Sport Band (Gold Aluminum, Pink Sand)",
         "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/apple-watch-se/apple-watch-se-01-500x500.jpg",
@@ -49,6 +55,7 @@
     },
     {
         "id": 7,
+        "personName": "LM 10",
         "commend": "I got players with bad watches – they can’t tell midnight from noon",
         "name": "Apple Watch Series 4 (MU6D2LL/A) GPS, 44mm, Space Gray Aluminum, Black Sport Band",
         "rating": 4,

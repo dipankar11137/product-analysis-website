@@ -4,7 +4,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className='p-5 bg-dark'>
+        <div className='p-3 bg-dark'>
             <nav className='nav-style'>
                 <Link to="/">HOME</Link>
                 <Link to="/reviews">REVIEWS</Link>

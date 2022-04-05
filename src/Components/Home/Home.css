@@ -39,6 +39,16 @@
     padding: 8px 15px;
     border-radius: 10px;
     border: 0;
+
+}
+
+.btn-style a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-style a:hover {
+    color: aliceblue;
 }
 
 .btn-style:hover {

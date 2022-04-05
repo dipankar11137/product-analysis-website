@@ -1,0 +1,22 @@
+.cart-style {
+    border: 4px solid rgb(57, 3, 46);
+    height: 425px;
+    border-radius: 20px;
+}
+
+.cart-style img {
+    width: 150px;
+}
+
+.cart-style p {
+    margin: 5px;
+}
+
+.cart-style:hover {
+
+    border: 4px solid rgb(254, 196, 6);
+}
+
+.text-color {
+    color: orangered;
+}

@@ -2,12 +2,13 @@
 import { Link } from 'react-router-dom';
 
 import watch from '../../Picture/Apple_Watch_Series_6.jpg'
+import Cart from '../Cart/Cart';
 import useProducts from '../hooks/useProducts';
 import './Home.css'
 
 const Home = () => {
     const [products, setProducts] = useProducts();
-
+    console.log(products.slice(0, 3));
 
     return (
         <div className='container mt-5 p-3'>
@@ -24,15 +25,18 @@ const Home = () => {
                     <img className='w-75' src={watch} alt="" />
                 </div>
             </div>
-
+            <br />
+            < hr />
             <div className='mt-5'>
-                <h1>Product :{products.length}</h1>
-                {
-                    // products.slice()
-                }
+                <h1 className='fw-bold'>Products </h1>
+                <div className='products-container'>
+                    {
+                        (products.slice(0, 3)).map(product => <Cart key={product.id} product={product}></Cart>)
+                    }
+                </div>
 
-                <nav className=''>
-                    <Link to="/reviews">REVIEWS</Link>
+                <nav className=' btn-style btn mt-3 mb-5'>
+                    <Link to="/reviews">Show All Products</Link>
                 </nav>
 
             </div>
